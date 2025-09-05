@@ -26,24 +26,9 @@ A user-friendly web application that uses object detection to analyze images of 
 
 ---
 
-## 🖼️ Screenshots
-
-> *Upload a few example screenshots of the UI and results below:*
-
-**1. Upload Interface**
-![Upload Interface](<screenshot here>)
-
-**2. Detection Results**
-![Detection Results](<screenshot here>)
-
-**3. Histogram Output**
-![Histogram](<screenshot here>)
-
----
-
 ## 🎥 Video Demo
 
-Watch how the app works in action:
+WATCH HOW THE APP WORKS IN ACTION:
 https://github.com/user-attachments/assets/88114bc9-b71c-404f-b388-41644bf3ec19
 
 ---
